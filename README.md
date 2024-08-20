@@ -20,8 +20,8 @@ To run this project locally, follow these steps:
 - Clone the repository
 
    ```bash
-   git clone https://github.com/yourusername/to-do-app.git
-   cd todo
+   git clone git@github.com:anji1001/To-do-app.git
+   cd To-do-app
 
 - npm install
 - npm run dev
